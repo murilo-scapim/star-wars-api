@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juninmd/star-wars-api.git"
+    "url": "git+https://github.com/murilo-scapim/star-wars-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juninmd/star-wars-api/issues"
+    "url": "https://github.com/murilo-scapim/star-wars-api/issues"
   },
-  "homepage": "https://github.com/juninmd/star-wars-api#readme",
+  "homepage": "https://github.com/murilo-scapim/star-wars-api#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1"
